@@ -2,6 +2,7 @@
 ##ESTSOFT AI서비스기획 전문가 양성 부트캠프 4기 
 
 ---------------------
+## 1005 
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello%20World:)&animation=&fontColor=ffffff&fontSize=60" />
